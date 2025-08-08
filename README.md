@@ -8,56 +8,38 @@
 
 ## 🚀 About Me
 
-- 🎓 Currently learning **Python**, **Java**, and full-stack web development
-- 🔭 Working on building my own apps and projects step by step
-- 💼 My goal is to land a developer job and create useful, real-world software
+- 🎓 Currently learning **Python**, **Java**, and full‑stack web development  
+- 🔭 Working on building my own apps step by step  
+- 💼 My goal is to land a developer job and create real‑world software  
 - 📚 Following a personalized [Full Stack Roadmap](https://github.com/Tauhid75/fullstack-roadmap)
 
 ---
 
 ## 🛠️ Tech Stack
 
-- **Languages**: Python | Java | HTML | CSS | JavaScript
-- **Frameworks**: Django (learning) | React (coming soon)
-- **Tools**: Git | GitHub | VS Code | Postman
-- **Database**: SQLite | MySQL (learning)
+- **Languages**: Python | Java | HTML | CSS | JavaScript  
+- **Frameworks**: Django (learning) | React (up next)  
+- **Tools**: Git | GitHub | VS Code | Postman  
+- **Database**: SQLite | MySQL (soon)
 
 ---
 
 ## 💻 What I'm Working On
 
-| Project | Status | Tech |
-|--------|--------|------|
-| 📝 To-Do App | In Progress | HTML, CSS, Python |
-| 🌐 Personal Portfolio | Designing | HTML, CSS, GitHub Pages |
-| 🔍 Practice Challenges | Ongoing | Python, Java, Algorithms |
-
-See more on [my GitHub Repositories »](https://github.com/Tauhid75?tab=repositories)
-
----
-
-## 📈 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Tauhid75&show_icons=true&theme=default" alt="Tauhid's GitHub stats" />
-  <br/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Tauhid75" alt="GitHub Streak" />
-  <br/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Tauhid75&layout=compact" alt="Top Languages" />
-</p>
+| Project              | Status        | Tech              |
+|---------------------|---------------|-------------------|
+| To‑Do App            | In Progress   | HTML, CSS, Python |
+| Personal Portfolio   | Designing     | HTML, CSS, GH‑Pages |
 
 ---
 
 ## 📫 Get in Touch
 
-- GitHub: [@Tauhid75](https://github.com/Tauhid75)
-- Email: *ktauhidulilsam@gmail.com*  
-- LinkedIn: *(add your LinkedIn if available)*
+- GitHub: [@Tauhid75](https://github.com/Tauhid75)  
+- Email: *(add your email here)*  
+- LinkedIn: *(add LinkedIn if you have one)*
 
 ---
 
-## ✨ Quote I Live By
-
 > “Consistency is more important than perfection.”  
-
-Thanks for visiting my profile — I’m always learning, building, and growing 💙
+> Thanks for visiting my profile 💙
