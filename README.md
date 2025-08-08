@@ -8,38 +8,49 @@
 
 ## 🚀 About Me
 
-- 🎓 Currently learning **Python**, **Java**, and full‑stack web development  
-- 🔭 Working on building my own apps step by step  
-- 💼 My goal is to land a developer job and create real‑world software  
-- 📚 Following a personalized [Full Stack Roadmap](https://github.com/Tauhid75/fullstack-roadmap)
+- 🔭 Currently learning **Python**, **Java**, and full-stack development  
+- 🛠️ Working on personal app projects  
+- 🎯 Goal: Become a professional developer & launch my own software  
+- 🗺️ Roadmap: [My Full Stack Journey](https://github.com/Tauhid75/fullstack-roadmap)
 
 ---
 
 ## 🛠️ Tech Stack
 
 - **Languages**: Python | Java | HTML | CSS | JavaScript  
-- **Frameworks**: Django (learning) | React (up next)  
+- **Frameworks**: Django (learning) | React (next)  
 - **Tools**: Git | GitHub | VS Code | Postman  
-- **Database**: SQLite | MySQL (soon)
+- **Databases**: SQLite | MySQL (coming soon)
 
 ---
 
-## 💻 What I'm Working On
+## 📈 GitHub Stats
 
-| Project              | Status        | Tech              |
-|---------------------|---------------|-------------------|
-| To‑Do App            | In Progress   | HTML, CSS, Python |
-| Personal Portfolio   | Designing     | HTML, CSS, GH‑Pages |
-
----
-
-## 📫 Get in Touch
-
-- GitHub: [@Tauhid75](https://github.com/Tauhid75)  
-- Email: *(add your email here)*  
-- LinkedIn: *(add LinkedIn if you have one)*
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Tauhid75&show_icons=true&theme=default" alt="Tauhid's GitHub stats" />
+  <br>
+  <img src="https://streak-stats.demolab.com?user=Tauhid75&theme=default" alt="GitHub Streak" />
+  <br>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Tauhid75&layout=compact" alt="Top Languages" />
+</p>
 
 ---
 
-> “Consistency is more important than perfection.”  
-> Thanks for visiting my profile 💙
+## 📫 Contact Me
+
+- 💌 Email: `ktauhidulislam@gmail.com`  
+- 🔗 LinkedIn: [Your LinkedIn](https://www.linkedin.com/in/your-link/)  
+- 🌐 Portfolio: *(coming soon)*
+
+---
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=Tauhid75&label=Profile%20views&color=0e75b6&style=flat" alt="Tauhid75" />
+</p>
+
+---
+
+> “Consistency beats motivation — every single time.”  
+> Thanks for stopping by 💙
+
+
