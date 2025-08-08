@@ -51,7 +51,7 @@ See more on [my GitHub Repositories »](https://github.com/Tauhid75?tab=reposito
 ## 📫 Get in Touch
 
 - GitHub: [@Tauhid75](https://github.com/Tauhid75)
-- Email: *(you can add your email here)*  
+- Email: *ktauhidulilsam@gmail.com*  
 - LinkedIn: *(add your LinkedIn if available)*
 
 ---
